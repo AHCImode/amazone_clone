@@ -5,7 +5,9 @@ function Checkout() {
     return (
         <div className="checkout">  
             <div className="checkout__left">
-                   </div>
+                <img
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhnytJ1B88NptCJ-OMynShucmiF6SgkkQoTw&usqp=CAU"></img>
+            </div>
 
              <div>
                  <h2 className="checkout__title">Your shoping basket</h2>
