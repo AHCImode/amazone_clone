@@ -12,7 +12,10 @@
 
 .checkout__title{
     margin-right: 10px;
-    padding: 10px;
+    padding: 20px;
     border-bottom: 1px solid lightgrey;
+}
+.checkout__right{
+
 }
 
