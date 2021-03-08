@@ -31,7 +31,7 @@ function App() {
          // user is loggd out 
        }
     })
-  }, [])
+  }, )
 
   return (
     <Router>
