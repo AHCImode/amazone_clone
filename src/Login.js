@@ -60,7 +60,7 @@ function Login() {
                 <p>
                 By continuing, you agree to Amazon's Conditions of Use and Privacy Notice.
                 </p>
-                <button onClick={register} className='login__registerButton'>Create Amazon account</button>
+                <button onClick={register} className='login__registerButton'>Create account</button>
 
             </div>
 
