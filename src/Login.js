@@ -56,6 +56,7 @@ function Login() {
 
                     <button type='submit' onClick={signIn} className='login__signInButton'>Sign In</button>
                 </form>
+                <p>Helloc </p>
 
                 <p>
                 By continuing, you agree to Amazon's Conditions of Use and Privacy Notice.
